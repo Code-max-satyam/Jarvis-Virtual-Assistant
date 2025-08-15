@@ -1,22 +1,22 @@
 # Jarvis-Virtual-Assistant
 
-A voice-controlled AI assistant that runs directly in your browser, built with HTML, CSS, and JavaScript. Inspired by Iron Man’s Jarvis, this assistant can listen to your commands, respond with speech, and perform useful tasks — all without installing any extra software. 🚀
+A voice-controlled AI assistant that runs directly in your browser, built with HTML, CSS, and JavaScript. Inspired by Iron Man’s Jarvis, this assistant can listen to your commands, respond with speech, and perform useful tasks — all without installing any extra software. 
 
 📌 Features
 
-🎙 Voice Command Recognition – Listen and respond to your voice in real-time using Web Speech API.
+ Voice Command Recognition – Listen and respond to your voice in real-time using Web Speech API.
 
-🌐 Web Search – Search instantly on Google, YouTube, or Wikipedia.
+ Web Search – Search instantly on Google, YouTube, or Wikipedia.
 
-📅 Date & Time – Tell you the current date and time.
+ Date & Time – Tell you the current date and time.
 
-🎵 Music Control – Play or stop songs and videos.
+ Music Control – Play or stop songs and videos.
 
-🗣 Speech Response – Replies with a natural-sounding voice.
+ Speech Response – Replies with a natural-sounding voice.
 
-🎨 Modern UI – Stylish, responsive design made with HTML & CSS.
+ Modern UI – Stylish, responsive design made with HTML & CSS.
 
-🛠 Tech Stack
+ Tech Stack
 
 Frontend: HTML, CSS
 
@@ -26,7 +26,7 @@ APIs: Web Speech API (Speech Recognition & Speech Synthesis)
 
 Platform: Works on all modern browsers (Chrome recommended)
 
-🎯 How It Works
+ How It Works
 
 Click the microphone button.
 
@@ -44,11 +44,11 @@ Example Commands
 
 "Play music" → Plays a predefined song or opens music in the browser
 
-🤝 Contributing
+ Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
-📜 License
+ License
 
 This project is licensed under the MIT License – you can use, modify, and distribute it freely.
