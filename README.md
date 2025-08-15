@@ -2,7 +2,7 @@
 
 A voice-controlled AI assistant that runs directly in your browser, built with HTML, CSS, and JavaScript. Inspired by Iron Man’s Jarvis, this assistant can listen to your commands, respond with speech, and perform useful tasks — all without installing any extra software. 
 
-📌 Features
+ Features
 
  Voice Command Recognition – Listen and respond to your voice in real-time using Web Speech API.
 
